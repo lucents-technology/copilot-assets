@@ -2,26 +2,26 @@
   {
     "id": "charlie",
     "name": "Charlie",
-    "image": "https://i.imgur.com/0y8Ftya.jpg"
+    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/charlie.svg"
   },
   {
     "id": "cuddles",
     "name": "Cuddles",
-    "image": "https://i.imgur.com/0y8Ftya.jpg"
+    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/cuddles.svg"
   },
   {
     "id": "mimi",
     "name": "Mimi",
-    "image": "https://i.imgur.com/0y8Ftya.jpg"
+    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/mimi.svg"
   },
   {
     "id": "sutskever",
     "name": "Sutskever",
-    "image": "https://i.imgur.com/0y8Ftya.jpg"
+    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/sutskever.svg"
   },
   {
     "id": "zoe",
     "name": "Zoe",
-    "image": "https://i.imgur.com/0y8Ftya.jpg"
+    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/zoe.svg"
   }
 ]
