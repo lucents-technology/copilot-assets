@@ -1,0 +1,27 @@
+[
+  {
+    "id": "charlie",
+    "name": "Charlie",
+    "image": "https://i.imgur.com/0y8Ftya.jpg"
+  },
+  {
+    "id": "cuddles",
+    "name": "Cuddles",
+    "image": "https://i.imgur.com/0y8Ftya.jpg"
+  },
+  {
+    "id": "mimi",
+    "name": "Mimi",
+    "image": "https://i.imgur.com/0y8Ftya.jpg"
+  },
+  {
+    "id": "sutskever",
+    "name": "Sutskever",
+    "image": "https://i.imgur.com/0y8Ftya.jpg"
+  },
+  {
+    "id": "zoe",
+    "name": "Zoe",
+    "image": "https://i.imgur.com/0y8Ftya.jpg"
+  }
+]
