@@ -1,27 +1,23 @@
 [
   {
+    "id": "mira",
+    "name": "Mira",
+    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/mimi.svg",
+    "available": true,
+    "default": true
+  },
+  {
     "id": "em-be",
     "name": "Em Bé",
-    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/charlie.svg"
+    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/charlie.svg",
+    "available": false,
+    "default": false
   },
   {
     "id": "xa-hoi-den",
     "name": "Xã Hội Đen",
-    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/cuddles.svg"
-  },
-  {
-    "id": "mimi",
-    "name": "Mimi",
-    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/mimi.svg"
-  },
-  {
-    "id": "sutskever",
-    "name": "Sutskever",
-    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/sutskever.svg"
-  },
-  {
-    "id": "zoe",
-    "name": "Zoe",
-    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/zoe.svg"
+    "image": "https://raw.githubusercontent.com/lucents-technology/lucents-chat-assets/main/assets/bots/cuddles.svg",
+    "available": false,
+    "default": false
   }
 ]
